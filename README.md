@@ -1,62 +1,40 @@
+![logo](./client/src/images/logo.png)
+
 # Just Another Text Editor
 
-Welcome to JATE, a text editor that 
+Welcome to JATE, a text editor that runs in your browser! with a Progressive Web Application backend,  JATE is desgined to run in your browser and offline if need be, making it the perfect notetaking application for at home or on the go.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+JATE utilizes several webpack plugins to generate HTML files, load styles and CSS that brings our application to life, and caches responses to make sure your data persists.
+
+![server](./images/jateserver.png)
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* express
+* nodejs
+* babel plugin
+* IndexedDB
+* Webpack manifest
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+![install](./images/jate.png)
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Installing is easier than ever. Once you open the application on your web browser, click "Install" to get started.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
+Samantha Gosselin is a fullstack web developer based in Austin, Texas. You can view her work on [github](https://github.com/Samanthag2009) or connect on [linkedIn](https://www.linkedin.com/in/samantha-gosselin-37493517/)
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
